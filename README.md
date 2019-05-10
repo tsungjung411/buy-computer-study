@@ -38,6 +38,16 @@
 
 <br><hr>
 
+### Windows 作業系統
+#### 關鍵字：
+- **彩盒版**：限定一台電腦註冊，可重複轉移且重新註冊
+- **隨機版**：限定一台電腦無法轉移及無法重新註冊，且綁定主機板cpu
+#### 文章：
+- [如果手邊有win7的電腦系統可以免費升級win10](https://www.mobile01.com/topicdetail.php?f=300&t=5714807)
+- [windows10隨機版與彩盒版的差異](https://www.mobile01.com/topicdetail.php?f=300&t=4774533)
+
+<br><hr>
+
 ### 電腦保養
 - [『電腦防塵』分享一下防塵PVC網](https://www.mobile01.com/topicdetail.php?f=299&t=3984125)
   - [特價！PVC防塵濾網/沖孔網/機殼防塵網/風扇防塵網/電腦濾網 孔徑1mm](https://goods.ruten.com.tw/item/show?21614402418373)

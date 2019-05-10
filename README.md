@@ -10,6 +10,8 @@
 - AMD:<br>![](https://pic.pimg.tw/aton5918/1550386956-3133718435.jpg)
 #### 文章：
 - [「電腦選購」CPU 挑選.選購法則 Intel v.s AMD (2019.4月更新)](https://aton5918.pixnet.net/blog/post/213482968)
+  - 哪個CPU比較厲害?
+    > 誰比較貴，誰比較好
 - [【電腦組裝】CPU的介紹與選購：Intel & AMD (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/59877783)
 
 <br><hr>

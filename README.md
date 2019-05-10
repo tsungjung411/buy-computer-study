@@ -5,6 +5,7 @@
 <br><hr>
 
 ### 中央處理器(CPU)
+- ![](https://pic.pimg.tw/aton5918/1550386956-2692326693.jpg)
 - [「電腦選購」CPU 挑選.選購法則 Intel v.s AMD (2019.4月更新)](https://aton5918.pixnet.net/blog/post/213482968)
 - [【電腦組裝】CPU的介紹與選購：Intel & AMD (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/59877783)
 

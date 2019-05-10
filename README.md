@@ -26,7 +26,7 @@
 ### 硬碟(Disk)
 #### 產品：
 - [【TOSHIBA】Galaxy SATA 企業級硬碟 8TB 3.5吋 SATAIII 7200轉硬碟 五年保固(MG05ACA800E)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4801076)
-  - 特價7499，每 GB 價格 0.9373 元（=7499/8000）
+  - 2019.05.08：特價7499，每 GB 價格 0.9373 元（=7499/8000）
 
 <br><hr>
 

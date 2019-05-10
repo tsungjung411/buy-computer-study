@@ -24,6 +24,14 @@
 <br><hr>
 
 ### 硬碟(Disk)
+#### 關鍵字：
+- HGST (昱科環球儲存)：[2011年被威騰電子收購](https://home.gamer.com.tw/creationDetail.php?sn=2699973)
+- Toshiba (東芝)
+- WD / WDC/ Western Digital (威騰/電子)
+- Seagate (希捷)
+#### 文章：
+- [Backblaze硬碟故障率報告：HGST最可靠、Seagate 4TB故障率29.08%](https://www.cool3c.com/article/132999)
+
 #### 產品：
 - [[momo]【TOSHIBA】Galaxy SATA 企業級硬碟 8TB 3.5吋 SATAIII 7200轉硬碟 五年保固(MG05ACA800E)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4801076)
   - 2019.05.08：特價7499，每 GB 價格 0.9373 元（=7499/8000）

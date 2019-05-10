@@ -7,6 +7,7 @@
 <br>
 
 ### 主機板(Motherboard)
+- [技嘉第二代超耐久系列 高品質電源模組設計](https://www.gigabyte.com/tw/webpage/9/article_08_ultra_durable2.htm)
 
 <br>
 

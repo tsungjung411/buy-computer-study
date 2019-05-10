@@ -33,7 +33,24 @@
 - 動態隨機存取記憶體(DRAM, Dynamic Random Access Memory)
 #### 文章：
 - [記憶體 RAM 基本常識：容量大小、時脈、傳輸速度與插槽規格](https://blog.gtwang.org/tips/effect-of-ram-size-and-frequency/)
-
+- [記憶體單通道 vs. 雙通道性能評測，跑雙通道比較有用嗎？](https://www.techbang.com/posts/12220)
+  - 幀數，對 CPU 不受影響
+  - 幀數，對 GPU 影響較大，進步幅度為 25％～45％ 左右
+#### 產品：
+- 金士頓(Kingston)介紹
+  - [HyperX FURY DDR4](https://www.hyperxgaming.com/tw/memory/fury-ddr4)
+    <br>自動超頻到 3466 Mhz，提昇遊戲、影像編輯、3D繪圖效能
+    <br>
+  - [效能設定檔](https://www.hyperxgaming.com/tw/memory/overclocking-education)：以 Mb/s 為單位的記憶體讀取 (越高越好)
+      - 超頻：
+        - HyperX Predator DDR4 / 3600MHz / 50004 MB/s
+        - HyperX Predator DDR4 / 3000MHz / 42411 MB/s
+        - Kingston DDR4 / 2666MHz / 37463 MB/s
+      - 隨插即用
+        - HyperX Predator DDR4 / 2666MHz / 39248 MB/s
+        - HyperX Fury DDR4 / HyperX Impact DDR4 / 2666 MHz / 38032 MB/s
+        - Kingston DDR4 記憶體 / 2666 MHz / 37463 MB/s
+        
 <br><hr>
 
 ### 硬碟(Disk)

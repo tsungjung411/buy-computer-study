@@ -1,8 +1,12 @@
 ## 如何選購/組裝電腦
+- [原價屋](https://www.coolpc.com.tw/evaluate.php)
+  - 下方有瓦特、現金估計
 
 <br><hr>
 
 ### 中央處理器(CPU)
+- [「電腦選購」CPU 挑選.選購法則 Intel v.s AMD (2019.4月更新)](https://aton5918.pixnet.net/blog/post/213482968)
+- [【電腦組裝】CPU的介紹與選購：Intel & AMD (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/59877783)
 
 <br><hr>
 
@@ -12,6 +16,8 @@
 - 電容：圓形，蓄電濾波，穩定供電給 CPU
 #### 文章：
 - [技嘉第二代超耐久系列 高品質電源模組設計](https://www.gigabyte.com/tw/webpage/9/article_08_ultra_durable2.htm)
+- [「電腦選購」主機板 挑選.選購法則 (2019/4月更新)](https://aton5918.pixnet.net/blog/post/213507130)
+- [【電腦組裝】主機板的介紹與選購建議 (2019.2月更新)](https://ofeyhong.pixnet.net/blog/post/59878626)
 
 <br><hr>
 

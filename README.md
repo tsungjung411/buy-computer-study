@@ -23,6 +23,13 @@
 
 <br><hr>
 
+### 硬碟(Disk)
+#### 產品：
+- [【TOSHIBA】Galaxy SATA 企業級硬碟 8TB 3.5吋 SATAIII 7200轉硬碟 五年保固(MG05ACA800E)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4801076)
+  - 特價7499，每 GB 價格 0.9373 元（=7499/8000）
+
+<br><hr>
+
 ### 電腦保養
 - [『電腦防塵』分享一下防塵PVC網](https://www.mobile01.com/topicdetail.php?f=299&t=3984125)
   - [特價！PVC防塵濾網/沖孔網/機殼防塵網/風扇防塵網/電腦濾網 孔徑1mm](https://goods.ruten.com.tw/item/show?21614402418373)

@@ -7,6 +7,8 @@
 <br>
 
 ### 主機板(Motherboard)
+- 電感：方形，儲能整流(穩定電流)
+- 電容：圓形，蓄電濾波，穩定供電給 CPU
 - [技嘉第二代超耐久系列 高品質電源模組設計](https://www.gigabyte.com/tw/webpage/9/article_08_ultra_durable2.htm)
 
 <br>

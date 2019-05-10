@@ -8,6 +8,7 @@
 #### 關鍵字：
 - Intel:<br>![](https://pic.pimg.tw/aton5918/1550386956-2692326693.jpg)
 - AMD:<br>![](https://pic.pimg.tw/aton5918/1550386956-3133718435.jpg)
+- 時脈(頻率)：<br>XX GHz，一個週期內，CPU 可執行的次數
 #### 文章：
 - [「電腦選購」CPU 挑選.選購法則 Intel v.s AMD (2019.4月更新)](https://aton5918.pixnet.net/blog/post/213482968)
   - 哪個CPU比較厲害?

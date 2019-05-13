@@ -1,6 +1,6 @@
 ﻿## 如何選購/組裝電腦
 - [原價屋](https://www.coolpc.com.tw/evaluate.php)
-  - 下方有瓦特、現金估計
+  - 下方有瓦數估計、現金估計
 
 <br><hr>
 

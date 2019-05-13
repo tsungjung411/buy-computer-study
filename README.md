@@ -2,7 +2,7 @@
 - [原價屋](https://www.coolpc.com.tw/evaluate.php)
   - 下方有瓦數估計、現金估計
 
-<br><hr>
+<br><hr><br>
 
 ### 中央處理器(CPU)
 #### 關鍵字：
@@ -15,7 +15,8 @@
     > 誰比較貴，誰比較好
 - [【電腦組裝】CPU的介紹與選購：Intel & AMD (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/59877783)
 - [【電腦知識】AMD好還是INTEL好??](http://momosagax.pixnet.net/blog/post/180974723)
-<br><hr>
+
+<br><hr><br>
 
 ### 主機板(Motherboard)
 #### 關鍵字：
@@ -44,8 +45,7 @@
      - B360 HD3
    - [超耐久系列 Z390 系列比較](https://www.gigabyte.com/tw/Comparison/Result/2?pids=6642,6653,6789)
 
-
-<br><hr>
+<br><hr><br>
 
 ### 記憶體(Memory)
 #### 關鍵字：
@@ -71,7 +71,7 @@
         - HyperX Fury DDR4 / HyperX Impact DDR4 / 2666 MHz / 38032 MB/s
         - Kingston DDR4 記憶體 / 2666 MHz / 37463 MB/s
         
-<br><hr>
+<br><hr><br>
 
 ### 硬碟(Disk)
 #### 關鍵字：
@@ -86,7 +86,7 @@
 - [[momo]【TOSHIBA】Galaxy SATA 企業級硬碟 8TB 3.5吋 SATAIII 7200轉硬碟 五年保固(MG05ACA800E)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4801076)
   - 2019.05.08：特價7499，每 GB 價格 0.9373 元（=7499/8000）
 
-<br><hr>
+<br><hr><br>
 
 ### 電源供應器
 #### 關鍵字
@@ -122,7 +122,7 @@
 - 酷碼(Cooler Master)
 - 安鈦克(Antec)
 
-<br><hr>
+<br><hr><br>
 
 ### Windows 作業系統
 #### 關鍵字：
@@ -132,13 +132,13 @@
 - [如果手邊有win7的電腦系統可以免費升級win10](https://www.mobile01.com/topicdetail.php?f=300&t=5714807)
 - [windows10隨機版與彩盒版的差異](https://www.mobile01.com/topicdetail.php?f=300&t=4774533)
 
-<br><hr>
+<br><hr><br>
 
 ### 電腦保養
 - [『電腦防塵』分享一下防塵PVC網](https://www.mobile01.com/topicdetail.php?f=299&t=3984125)
   - [特價！PVC防塵濾網/沖孔網/機殼防塵網/風扇防塵網/電腦濾網 孔徑1mm](https://goods.ruten.com.tw/item/show?21614402418373)
 
-<br><hr>
+<br><hr><br>
 
 ## 關鍵字
 - 選購 / 挑選 / 購買 / 組裝

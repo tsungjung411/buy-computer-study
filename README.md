@@ -27,6 +27,17 @@
 - [【電腦組裝】主機板的介紹與選購建議 (2019.2月更新)](https://ofeyhong.pixnet.net/blog/post/59878626)
 #### 產品：
 - [GIGABYTE 超耐久系列](https://www.gigabyte.com/tw/Motherboard/Ultra-Durable%E2%84%A2)
+  - 超耐久系列
+     - Z390 DESIGNARE
+     - Z390 M
+     - Z390 UD
+     - B365M D2V
+     - B450M DS3H
+     - B450M S2H
+     - H370 HD3
+     - H370M D3H
+     - H370N WIFI
+     - B360 HD3
 
 
 <br><hr>

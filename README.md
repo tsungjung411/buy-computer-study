@@ -25,7 +25,7 @@
 - [技嘉第二代超耐久系列 高品質電源模組設計](https://www.gigabyte.com/tw/webpage/9/article_08_ultra_durable2.htm)
   - [技嘉第二代超耐久主機板介紹](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2.htm)
     <br>![](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2-main_11.gif)
-  - [產品](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2.htm)
+  - [產品](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2-models.htm)
     <br>代碼D: 第2代超耐久主機板設計
 - [「電腦選購」主機板 挑選.選購法則 (2019/4月更新)](https://aton5918.pixnet.net/blog/post/213507130)
 - [【電腦組裝】主機板的介紹與選購建議 (2019.2月更新)](https://ofeyhong.pixnet.net/blog/post/59878626)

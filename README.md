@@ -1,4 +1,4 @@
-## 如何選購/組裝電腦
+﻿## 如何選購/組裝電腦
 - [原價屋](https://www.coolpc.com.tw/evaluate.php)
   - 下方有瓦特、現金估計
 
@@ -14,7 +14,7 @@
   - 哪個CPU比較厲害?
     > 誰比較貴，誰比較好
 - [【電腦組裝】CPU的介紹與選購：Intel & AMD (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/59877783)
-
+- [【電腦知識】AMD好還是INTEL好??](http://momosagax.pixnet.net/blog/post/180974723)
 <br><hr>
 
 ### 主機板(Motherboard)
@@ -36,6 +36,7 @@
 - [記憶體單通道 vs. 雙通道性能評測，跑雙通道比較有用嗎？](https://www.techbang.com/posts/12220)
   - 幀數，對 CPU 不受影響
   - 幀數，對 GPU 影響較大，進步幅度為 25％～45％ 左右
+- [認識SSD的SATA/mSATA/PCIe/M.2四種接口](https://blog.xuite.net/toyota5168/computer/545657931)
 #### 產品：
 - 金士頓(Kingston)介紹
   - [HyperX FURY DDR4](https://www.hyperxgaming.com/tw/memory/fury-ddr4)
@@ -65,6 +66,42 @@
 #### 產品：
 - [[momo]【TOSHIBA】Galaxy SATA 企業級硬碟 8TB 3.5吋 SATAIII 7200轉硬碟 五年保固(MG05ACA800E)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4801076)
   - 2019.05.08：特價7499，每 GB 價格 0.9373 元（=7499/8000）
+
+<br><hr>
+
+### 電源供應器
+#### 關鍵字
+- 80 PLUS 認證等級：鈦金牌 > 白金牌 > 金牌 > 銀牌 > 銅牌
+- 轉換效率：<br>![](https://pic.pimg.tw/aton5918/1547616743-216599147.jpg)
+#### 文章：
+- [https://aton5918.pixnet.net/blog/post/222695850](「電腦選購」POWER 電源供應器 挑選.選購法則 (2019.1月更新))
+  - 好的Power大都在550W以上，350W(含)以下的Power，ATon建議不要購買
+  - ATon個人較常選用 海韻 / 酷碼 這兩家的Power
+- [[歐飛先生]【電腦組裝】電源供應器介紹與選購 (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/57302139)
+- [電源規格科普：AT/ATX/SFX/TFX/FLEX什麼鬼？](https://kknews.cc/zh-tw/digital/5rlok.html)
+
+#### 產品
+- [鈦金牌](https://24h.pchome.com.tw/store/DSAZ0C)
+  - 海韻x4 / 海盜船x3 / 銀欣x1
+
+- [白金牌](https://24h.pchome.com.tw/store/DSAZ0D)
+  - 海盜船x9 > 全漢x5 > 華碩x4 > 海韻x3 >= Cooler Masterx3 > 銀欣x2
+
+- 所以，挑有能力設計高階電源供應器的廠商：海盜船 / 海韻
+
+#### 評價
+- [海韻燒掉主機版](https://www.mobile01.com/topicdetail.php?f=501&t=5058110)
+- [記錄海韻電源供應器的故障記錄，網友也可以回報！從神壇跌落的炮兒，回不去了！](http://kato3c.pixnet.net/blog/post/436890037)
+- [振華系 則是在巴哈電應版的負指標 被置頂文章所公幹的 沒OCP的渣電供玩意](https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1935931)
+
+#### 中英對照
+- 海盜船(Corsair)
+- 海韻(Seasonic)
+- 銀欣(SilverStone)
+- 全漢(FSP)
+- 華碩(ASUS)
+- 酷碼(Cooler Master)
+- 安鈦克(Antec)
 
 <br><hr>
 

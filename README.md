@@ -38,6 +38,7 @@
      - H370M D3H
      - H370N WIFI
      - B360 HD3
+   - [超耐久系列 Z390 系列比較](https://www.gigabyte.com/tw/Comparison/Result/2?pids=6642,6653,6789)
 
 
 <br><hr>

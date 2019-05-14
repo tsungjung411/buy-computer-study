@@ -23,13 +23,32 @@
 - 電感：方形，儲能整流(穩定電流)
 - 電容：圓形，蓄電濾波，穩定供電給 CPU
 #### 文章：
-- [技嘉第二代超耐久系列 高品質電源模組設計](https://www.gigabyte.com/tw/webpage/9/article_08_ultra_durable2.htm)
-  - [技嘉第二代超耐久主機板介紹](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2.htm)
-    <br>![](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2-main_11.gif)
-  - [產品](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2-models.htm)
-    <br>代碼D: 第2代超耐久主機板設計
 - [「電腦選購」主機板 挑選.選購法則 (2019/4月更新)](https://aton5918.pixnet.net/blog/post/213507130)
 - [【電腦組裝】主機板的介紹與選購建議 (2019.2月更新)](https://ofeyhong.pixnet.net/blog/post/59878626)
+- [何謂 DisplayPort](https://newguest88.pixnet.net/blog/post/346807858)
+  - 結論：比 HDMI 2.0 更先進
+- 技嘉
+  - [技嘉第二代超耐久系列 高品質電源模組設計](https://www.gigabyte.com/tw/webpage/9/article_08_ultra_durable2.htm)
+    - [技嘉第二代超耐久主機板介紹](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2.htm)
+      <br>![](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2-main_11.gif)
+    - [產品](https://www.gigabyte.com/MicroSite/30/tech_070427_ud2-models.htm)
+      <br>代碼D: 第2代超耐久主機板設計
+  - [GIGABYTE 第五代超耐久™ 主機板](https://www.gigabyte.com/tw/MicroSite/312/images/ultra-durable.html)
+    - 電腦用的久 只選超耐久™ 主機板
+  - [耐用沒煩惱 技嘉主機板 質選超耐久(2018年3月16日)](https://tw.aorus.com/blog-detail.php?i=215)
+    - 不管是UD系列、SOC系列、DESIGNARE系列或是現在最夯的AORUS系列，全部都是超耐久的產品。
+    - 超耐久金屬防護裝甲 不怕插槽毀損 板身彎曲
+      - 保護 PCIe/記憶體插槽
+    - 防範於未然 抗硫化電阻不能沒有
+    - 超耐久概念始祖 不能不提的雙硬體 BIOS 設計
+      - 近6成的玩家送修主機板的原因是 BIOS 異常
+  - [GIGABYTE 技嘉科技 GA-H61M-DS2 (rev. 5.0)](https://www.gigabyte.com/tw/Motherboard/GA-H61M-DS2-rev-50#ov)
+    - 抗潮濕 – 高密度開纖布電路板
+    - 抗靜電 – 防靜電晶片
+    - 抗突波 – 防突波晶片及專利雙實體BIOS
+    - 抗高溫 – 全固態電容及超低電阻式電晶體
+    - 全固態電容
+   
 #### 產品：
 - [GIGABYTE 超耐久系列](https://www.gigabyte.com/tw/Motherboard/Ultra-Durable%E2%84%A2)
   - 超耐久系列
@@ -44,7 +63,8 @@
      - H370N WIFI
      - B360 HD3
    - [超耐久系列 Z390 系列比較](https://www.gigabyte.com/tw/Comparison/Result/2?pids=6642,6653,6789)
-
+   - [GIGABYTE Z390 / Z170 / X99](https://www.gigabyte.com/tw/Comparison/Result/2?pids=5478,5807,6642,6653,6789)
+   - [Z390 UD - ULTRA DURABLE](https://www.gigabyte.com/tw/Motherboard/Z390-UD-rev-10#sp)
 <br><hr><br>
 
 ### 記憶體(Memory)

@@ -62,8 +62,8 @@
      - H370M D3H
      - H370N WIFI
      - B360 HD3
-   - [超耐久系列 Z390 系列比較](https://www.gigabyte.com/tw/Comparison/Result/2?pids=6642,6653,6789)
-   - [GIGABYTE Z390 / Z170 / X99](https://www.gigabyte.com/tw/Comparison/Result/2?pids=5478,5807,6642,6653,6789)
+   - [超耐久系列 Z390 比較](https://www.gigabyte.com/tw/Comparison/Result/2?pids=6642,6653,6789)
+   - [超耐久系列 Z390 與 Z170, X99 比較](https://www.gigabyte.com/tw/Comparison/Result/2?pids=5478,5807,6642,6653,6789)
    - [Z390 UD - ULTRA DURABLE](https://www.gigabyte.com/tw/Motherboard/Z390-UD-rev-10#sp)
 <br><hr><br>
 

@@ -5,7 +5,7 @@
   - CPU：誰比較貴，誰比較好
   - 主機板：GIGABYTE 第五代超耐久™ 主機板
   - 記憶體：金士頓 HyperX Predator
-  - 硬碟：HGST  Toshiba
+  - 硬碟：HGST &gt; Toshiba
   - 電源供應器：海盜船 / 海韻
 
 

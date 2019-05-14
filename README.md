@@ -132,6 +132,7 @@
   - 好的Power大都在550W以上，350W(含)以下的Power，ATon建議不要購買
   - ATon個人較常選用 海韻 / 酷碼 這兩家的Power
 - [[歐飛先生]【電腦組裝】電源供應器介紹與選購 (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/57302139)
+- [我的搭配要買幾瓦電源供應器？！簡單判定法！](https://www.coolpc.com.tw/phpBB2/viewtopic.php?f=21&t=55325)
 - [電源規格科普：AT / ATX / SFX / TFX / FLEX 什麼鬼？](https://kknews.cc/zh-tw/digital/5rlok.html)
 
 #### 產品

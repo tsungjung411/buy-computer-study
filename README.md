@@ -76,6 +76,13 @@
   - 幀數，對 CPU 不受影響
   - 幀數，對 GPU 影響較大，進步幅度為 25％～45％ 左右
 - [認識SSD的SATA/mSATA/PCIe/M.2四種接口](https://blog.xuite.net/toyota5168/computer/545657931)
+  - 金士頓和 HyperX 為代表的 SSD 品牌，已完全主導硬碟存儲市場。
+  - PCIe 代表產品：HyperX Predator PCIe SSD (佼佼者)
+  - SSD 讀寫效能：
+    - PCIe 資料 → CPU (高速公路)
+    - SATA 資料 → 記憶體 → CPU (崎嶇山路)
+  - PCIe 會占用總線通道，只有配合 Z170、X99 這樣頂級平台，才可以完全發揮 PCIe SSD 的性能。
+  
 #### 產品：
 - 金士頓(Kingston)介紹
   - [HyperX FURY DDR4](https://www.hyperxgaming.com/tw/memory/fury-ddr4)

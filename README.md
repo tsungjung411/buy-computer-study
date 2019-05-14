@@ -20,8 +20,8 @@
 - [「電腦選購」CPU 挑選.選購法則 Intel v.s AMD (2019.4月更新)](https://aton5918.pixnet.net/blog/post/213482968)
   - 哪個CPU比較厲害?
     > 誰比較貴，誰比較好
-- [【電腦組裝】CPU的介紹與選購：Intel & AMD (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/59877783)
-- [【電腦知識】AMD好還是INTEL好??](http://momosagax.pixnet.net/blog/post/180974723)
+- [【電腦組裝】CPU 的介紹與選購：Intel & AMD (2019.4月更新)](https://ofeyhong.pixnet.net/blog/post/59877783)
+- [【電腦知識】AMD 好還是 INTEL 好??](http://momosagax.pixnet.net/blog/post/180974723)
 
 <br><hr><br>
 

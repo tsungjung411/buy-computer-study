@@ -7,6 +7,7 @@
   - 記憶體：金士頓 HyperX Predator
   - 硬碟：HGST &gt; Toshiba
   - 電源供應器：海盜船 / 海韻
+  ![](20190514-components.jpg)
 
 
 <br><hr><br>

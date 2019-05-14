@@ -1,6 +1,13 @@
 ﻿## 如何選購/組裝電腦
 - [原價屋](https://www.coolpc.com.tw/evaluate.php)
   - 下方有瓦數估計、現金估計
+- 總結：
+  - CPU：誰比較貴，誰比較好
+  - 主機板：GIGABYTE 第五代超耐久™ 主機板
+  - 記憶體：金士頓 HyperX Predator
+  - 硬碟：HGST  Toshiba
+  - 電源供應器：海盜船 / 海韻
+
 
 <br><hr><br>
 

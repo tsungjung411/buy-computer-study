@@ -6,7 +6,7 @@
   - 主機板：GIGABYTE 第五代超耐久™ 主機板
   - 記憶體：金士頓 HyperX Predator
   - 硬碟：HGST &gt; Toshiba
-  - 電源供應器：海盜船 / 海韻
+  - 電源供應器：海盜船 / 海韻 （或是有全日系產品，如振華）
   ![](20190514-components.jpg)
 
 
@@ -99,6 +99,7 @@
   - [效能設定檔](https://www.hyperxgaming.com/tw/memory/overclocking-education)：以 Mb/s 為單位的記憶體讀取 (越高越好)
       - 超頻：
         - HyperX Predator DDR4 / 3600MHz / 50004 MB/s
+          <br>(有些高階主機板只支援到 3200MHz，要查閱主機板)
         - HyperX Predator DDR4 / 3000MHz / 42411 MB/s
         - Kingston DDR4 / 2666MHz / 37463 MB/s
       - 隨插即用

@@ -206,8 +206,13 @@
 ### 題外話
 - [一張圖看懂SD卡規格！](http://lte09.pixnet.net/blog/post/177716743)
   - ![](https://pic.pimg.tw/lte09/1448185248-2916504792_n.jpg)
-- U3 等級產品
+- 第三代(UHS-III) 等級產品
   - [【SanDisk 晟碟】Extreme Micro SD 64G A2 V30 160MB/s 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5965051&str_category_code=1905900013)
+    - 讀：160MB/s
+    - 寫：60MB/s
+- 第三代(UHS-III) + U3 等級產品
+  - [NTD299-【SAMSUNG】三星 EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4787516&str_category_code=1905900013)
+  - [NTD358-【SAMSUNG 三星】EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6690980&str_category_code=1905900013)
 
 ## 關鍵字
 - 選購 / 挑選 / 購買 / 組裝

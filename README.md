@@ -171,6 +171,16 @@
 
 <br><hr><br>
 
+### 無線網卡
+- [[Wi-Fi] IEEE 802.11 a/b/g/n/ac 有什麼差別？](https://bryceknowhow.blogspot.com/2013/11/wi-fi-ieee-80211-abgnac.html)
+- 絕不推薦 [EDIMAX 訊舟EW-7711USn USB無線網路卡](https://24h.pchome.com.tw/prod/DRAF9C-A81315619)
+  - 一台：用一年多就故障，送修
+  - 另一台：用了 3 年 3 個月出現故障，Ubuntu / Windows7＆10 有出現Wifi訊號，但皆無法連線
+  - 10多年前，早期的 EDIMAX 無線網卡還用的好好的
+  - 現在的產品都偽裝成「綠色產品/環保產品」，卻一點也不耐用，結果又買新的，製造更多 3C 垃圾，根本是假環保！
+
+<br><hr><br>
+
 ### 電腦保養
 - [『電腦防塵』分享一下防塵PVC網](https://www.mobile01.com/topicdetail.php?f=299&t=3984125)
   - [特價！PVC防塵濾網/沖孔網/機殼防塵網/風扇防塵網/電腦濾網 孔徑1mm](https://goods.ruten.com.tw/item/show?21614402418373)

@@ -214,5 +214,21 @@
   - [NTD299-【SAMSUNG】三星 EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4787516&str_category_code=1905900013)
   - [NTD358-【SAMSUNG 三星】EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6690980&str_category_code=1905900013)
 
+- 參考資料
+  - Class 10 = 寫入速度 最低 每秒 10M Bits
+  - U1 = Class 10
+  - U3 = 寫入速度 最低 每秒 30M Bits
+  - V10 = Class 10 = UHS-I U1
+  - V30 = UHS-I U3
+  - V60 = 寫入速度 最低 每秒 60M Bits
+  - V90 = 寫入速度 最低 每秒 90M Bits
+  - A1 = 4K隨機寫入 最低 500 IOPS、4K連續寫入 最低 每秒 10M Bits
+  - A2 = 4K隨機寫入 最低 2000 IOPS、4K連續寫入 最低 每秒 10M Bits
+  - I = UHS-I = 匯流排頻寬 最高 每秒 104M Bits
+  - II = UHS-II = 匯流排頻寬 最高 每秒 312M Bits
+  - III = UHS-III = 匯流排頻寬 最高 每秒 624M Bits
+
+<br><hr><br>
+
 ## 關鍵字
 - 選購 / 挑選 / 購買 / 組裝

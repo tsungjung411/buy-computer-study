@@ -173,9 +173,10 @@
 
 ### 無線網卡
 - [[Wi-Fi] IEEE 802.11 a/b/g/n/ac 有什麼差別？](https://bryceknowhow.blogspot.com/2013/11/wi-fi-ieee-80211-abgnac.html)
-  - 802.11ac: 5GHz 
-  - 802.11n: 2.4GHz
-  - 802.11b / 802.11g: 2.4-2.5Ghz
+  - 802.11ac: 5GHz / 200~866.7Mbps (有效距離 35m)
+  - 802.11n: 2.4GHz / 150~600Mps (有效距離 70m) (首選)
+  - 802.11g: 2.4-2.5Ghz / 54Mbps (有效距離 30m)
+  - 802.11b: 2.4-2.5Ghz / 11Mbps (有效距離 30m)
   
 - 絕不推薦 [EDIMAX 訊舟EW-7711USn USB無線網路卡](https://24h.pchome.com.tw/prod/DRAF9C-A81315619)
   - 一台：用一年多就故障，送修

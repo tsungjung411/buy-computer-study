@@ -202,5 +202,12 @@
 
 <br><hr><br>
 
+
+### 題外話
+- [一張圖看懂SD卡規格！](http://lte09.pixnet.net/blog/post/177716743)
+  - ![](https://pic.pimg.tw/lte09/1448185248-2916504792_n.jpg)
+- U3 等級產品
+  - [【SanDisk 晟碟】Extreme Micro SD 64G A2 V30 160MB/s 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5965051&str_category_code=1905900013)
+
 ## 關鍵字
 - 選購 / 挑選 / 購買 / 組裝

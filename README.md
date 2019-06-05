@@ -203,7 +203,16 @@
 <br><hr><br>
 
 
-### 題外話
+### 題外話 - 其他配備
+
+#### [藍芽發射器 / 藍牙發射器](https://ecshweb.pchome.com.tw/global/tw/v3.3/?q=%E8%97%8D%E8%8A%BD%E7%99%BC%E5%B0%84%E5%99%A8&scope=all&sortParm=prc&sortOrder=ac)
+  - [Avantree 迷你型藍牙傳輸發射器(DG40S)](https://global.pchome.com.tw/prod/DYAQ5G-A9007Z7OQ)
+  - [藍牙音源發射接收器二合一 藍芽無線 音訊音頻3.5mm接收器 發射器](https://global.pchome.com.tw/prod/DPAH3C-A9009Q4UU)
+  - [藍牙音頻二合一發射接收器 藍芽無線 音訊音源3.5mm接收器 發射器](https://global.pchome.com.tw/prod/DPAH3C-A9008KY8B)
+  - [DIKE DAB210 Emit千里傳音藍牙發射器](https://global.pchome.com.tw/prod/DYAQ5G-A9009WEEK)
+
+
+#### Micro SD
 - [一張圖看懂SD卡規格！](http://lte09.pixnet.net/blog/post/177716743)
   - ![](https://pic.pimg.tw/lte09/1448185248-2916504792_n.jpg)
 - 第三代(UHS-III) 等級產品

@@ -106,7 +106,10 @@
         - HyperX Predator DDR4 / 2666MHz / 39248 MB/s
         - HyperX Fury DDR4 / HyperX Impact DDR4 / 2666 MHz / 38032 MB/s
         - Kingston DDR4 記憶體 / 2666 MHz / 37463 MB/s
-        
+   - 注意：
+      - 不是買越高頻的就越好，要看主機板有沒有支援
+      - 像 [Gigabyte B450M](https://www.gigabyte.com/tw/Motherboard/B450-AORUS-M-rev-10#sp) 高階主機板，在不超頻的情況只能使用到 2933Mhz
+   
 <br><hr><br>
 
 ### 硬碟(Disk)

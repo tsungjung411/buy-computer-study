@@ -218,6 +218,7 @@
 - UHS-I / U3 / V30 等級產品
   - [【SanDisk 晟碟】Extreme Micro SD 64G A2 V30 160MB/s 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5965051&str_category_code=1905900013)
     - 讀 160MB/s, 寫 60MB/s, 終身保固, NTD569 (2019.06.06)
+    - [讓人失望的 SanDisk Extreme microSDXC A2 記憶卡](https://kheresy.wordpress.com/2018/11/28/%E8%AE%93%E4%BA%BA%E5%A4%B1%E6%9C%9B%E7%9A%84-sandisk-extreme-microsdxc-a2-%E8%A8%98%E6%86%B6%E5%8D%A1/)
   - [【PATRiOT 博帝】EP MicroSDXC UHS-1 U3 V30 A1 64G 記憶卡(PEF64GEP31MCX)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6645089&str_category_code=1905900013)
     - 讀 100MB/s, 寫 80MB/s, 保固五年, NTD349 (2019.06.06)
   - [【SAMSUNG】三星 EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4787516&str_category_code=1905900013)

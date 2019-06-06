@@ -215,21 +215,23 @@
 #### Micro SD
 - [一張圖看懂SD卡規格！](http://lte09.pixnet.net/blog/post/177716743)
   - ![](https://pic.pimg.tw/lte09/1448185248-2916504792_n.jpg)
-- 第三代(UHS-III) 等級產品
+- UHS-I / U3 / V30 等級產品
   - [【SanDisk 晟碟】Extreme Micro SD 64G A2 V30 160MB/s 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5965051&str_category_code=1905900013)
-    - 讀 160MB/s, 寫 60MB/s
+    - 讀 160MB/s, 寫 60MB/s, 終身保固, NTD569 (2019.06.06)
   - [【PATRiOT 博帝】EP MicroSDXC UHS-1 U3 V30 A1 64G 記憶卡(PEF64GEP31MCX)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6645089&str_category_code=1905900013)
-    - 讀 100MB/s, 寫 80MB/s (保固三年)
-  - [【Transcend 創見】64GB 300S microSDXC UHS-I U3 V30 A1 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6699647&str_category_code=1905900013)
-    - 讀 95MB/s, 寫 45MB/s (保固五年)
+    - 讀 100MB/s, 寫 80MB/s, 保固五年, NTD349 (2019.06.06)
 - 第三代(UHS-III) + U3 等級產品
   - [NTD299-【SAMSUNG】三星 EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4787516&str_category_code=1905900013)
+    - 讀 100MB/s, 寫 60MB/s, 保固十年, NTD299 (2019.06.06)
   - [NTD358-【SAMSUNG 三星】EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6690980&str_category_code=1905900013)
-  - [【Team 十銓】64GB 90MB/s microSDXC TF UHS-I U3 C10 記憶卡(彩卡版)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5944521&str_category_code=1905900013)
-    - 讀 90MB/s, 寫 45MB/s, 終身保固, NTD329 (2019.06.06)
+    - 讀 100MB/s, 寫 60MB/s, 保固十年, NTD358 (2019.06.06)
   - [【TCELL 冠元】MicroSDXC UHS-I A1 U3 64GB 100/60MB 高速記憶卡](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5638012&str_category_code=1905900013)
     - 讀 100MB/s, 寫 60MB/s, 終身保固, NTD299 (2019.06.06)
-
+  - [【Team 十銓】64GB 90MB/s microSDXC TF UHS-I U3 C10 記憶卡(彩卡版)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5944521&str_category_code=1905900013)
+    - 讀 90MB/s, 寫 45MB/s, 終身保固, NTD329 (2019.06.06)
+  - [【Transcend 創見】64GB 300S microSDXC UHS-I U3 V30 A1 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6699647&str_category_code=1905900013)
+    - 讀 95MB/s, 寫 45MB/s, 保固五年, NTD299 (2019.06.06)
+    
 - 參考資料
   - Class 10 = 寫入速度 最低 每秒 10M Bits
   - U1 = Class 10

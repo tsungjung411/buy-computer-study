@@ -220,7 +220,6 @@
     - 讀 160MB/s, 寫 60MB/s, 終身保固, NTD569 (2019.06.06)
   - [【PATRiOT 博帝】EP MicroSDXC UHS-1 U3 V30 A1 64G 記憶卡(PEF64GEP31MCX)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6645089&str_category_code=1905900013)
     - 讀 100MB/s, 寫 80MB/s, 保固五年, NTD349 (2019.06.06)
-- 第三代(UHS-III) + U3 等級產品
   - [NTD299-【SAMSUNG】三星 EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4787516&str_category_code=1905900013)
     - 讀 100MB/s, 寫 60MB/s, 保固十年, NTD299 (2019.06.06)
   - [NTD358-【SAMSUNG 三星】EVO PLUS microSDXC 64GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6690980&str_category_code=1905900013)

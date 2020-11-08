@@ -299,10 +299,17 @@
     - V90 = 寫入速度 最低 每秒 90M Bits
   - A1 = 4K隨機寫入 最低 500 IOPS、4K連續寫入 最低 每秒 10M Bits
   - A2 = 4K隨機寫入 最低 2000 IOPS、4K連續寫入 最低 每秒 10M Bits
-  - UHS (Ultra High Speed) 等級
-    - I = UHS-I = 匯流排頻寬 最高 每秒 104M Bits
-    - II = UHS-II = 匯流排頻寬 最高 每秒 312M Bits
-    - III = UHS-III = 匯流排頻寬 最高 每秒 624M Bits
+  - [匯流排介面](https://www.sdcard.org/cht/developers/overview/bus_speed/index.html)
+    - SD Express > UHS-III > UHS-II > UHS-I > 高速度 > 一般速度
+    - UHS (Ultra High Speed) 等級
+      - I = UHS-I = 匯流排頻寬 最高 每秒 104M Bits
+        - ![](https://www.sdcard.org/cht/developers/overview/bus_speed/img/uhs_i_marks.png)
+      - II = UHS-II = 匯流排頻寬 最高 每秒 312M Bits
+        - ![](https://www.sdcard.org/cht/developers/overview/bus_speed/img/uhs_ii_marks.png)
+      - III = UHS-III = 匯流排頻寬 最高 每秒 624M Bits
+        - ![](https://www.sdcard.org/cht/developers/overview/bus_speed/img/uhs_iii_marks.png)
+      - SD Express
+        - ![](https://www.sdcard.org/cht/developers/overview/bus_speed/img/uhs_express_marks.png)
 
 <br><hr><br>
 

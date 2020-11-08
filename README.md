@@ -265,27 +265,28 @@
     - 64GB, 633X SDXC UHS1
       - 399 (2020.11.08, 日本橋)
     - 128GB, 633X SDXC UHS1
+      - 549 (2020.07.07, 日本橋, 促銷特價), 商品名稱 High-Performance 633x microSDXC-UHS-I (A1)(V30)記憶卡
       - 599 (2020.11.08, 日本橋)
     - 256GB, 633X SDXC UHS1
       - 1290 (2020.11.08, 日本橋)
   - Kingston 金士頓
-    - 32GB, Class10 I U1 A1, Read 100MB/s 
+    - 32GB, Class10 I U1 A1, 讀 100MB/s 
       - 158 (2020.11.08, 日本橋)
-    - 64GB, Class10 I U1 A1, Read 100MB/s 
+    - 64GB, Class10 I U1 A1, 讀 100MB/s 
       - 299 (2020.11.08, 日本橋)
   - Sony
     - 16GB, TF R95n W60 SR-16UX2入
       - 158 (2020.11.08, 日本橋)
   - Kodak TF
-    - 128GB, SDXC UHS1 U1 Class10, Read 80MB/s
+    - 128GB, SDXC UHS1 U1 Class10, 讀 80MB/s
       - 399 (2020.11.08, 日本橋, 促銷特價)
   - Apacer
     - 64GB, SDXC UHS1 Class10 R85
       - 199 (2020.11.08, 日本橋, 促銷特價)
   - KLEVV CRAS
-    - 128GB, TF SDXC I Class A2 U3 V30, Read 100MB/s 
+    - <b style="background: yellow;">128GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s</b>
       - 399 (2020.11.08, 日本橋)
-    - 256GB, TF SDXC I Class A2 U3 V30, Read 100MB/s 
+    - 256GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s 
       - 888 (2020.11.08, 日本橋)
   
 - 參考資料

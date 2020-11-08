@@ -245,7 +245,7 @@
       - 499 (2020.11.08, 日本橋)
     - 256GB, V10
       - 990 (2020.11.08, 日本橋)
-  - 三星, TF EVO PLUS
+  - Samsung 三星, TF EVO PLUS
     - 64GB
       - 269 (2020.11.08, 日本橋)
     - 128GB
@@ -268,8 +268,16 @@
       - 599 (2020.11.08, 日本橋)
     - 256GB, 633X SDXC UHS1
       - 1290 (2020.11.08, 日本橋)
+  - Kingston 金士頓
+    - 32GB, Class10 I U1 A1, Read 100MB/s 
+      - 158 (2020.11.08, 日本橋)
+    - 64GB, Class10 I U1 A1, Read 100MB/s 
+      - 299 (2020.11.08, 日本橋)
+  - Sony
+    - 16GB, TF R95n W60 SR-16UX2入
+      - 158 (2020.11.08, 日本橋)
   - Kodak TF
-    - 128GB, U1
+    - 128GB, SDXC UHS1 U1 Class10, Read 80MB/s
       - 399 (2020.11.08, 日本橋, 促銷特價)
   - Apacer
     - 64GB, SDXC UHS1 Class10 R85

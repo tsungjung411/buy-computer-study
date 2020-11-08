@@ -283,7 +283,7 @@
   - Apacer
     - 64GB, SDXC UHS1 Class10 R85
       - 199 (2020.11.08, 日本橋, 促銷特價)
-  - KLEVV CRAS
+  - [KLEVV CRAS](https://www.momoshop.com.tw/category/DgrpCategory.jsp?d_code=4201000174)
     - 特色
       - 韓國大廠Hynix晶片
       - 流暢的4K及UHD影片拍攝

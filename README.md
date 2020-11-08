@@ -289,8 +289,8 @@
     - 256GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s 
       - 888 (2020.11.08, 日本橋)
   
-- 參考資料
-  - ```[C|U|V] N``` 寫入速度 最低 每秒 N x 10M Bits
+- #### 參考資料
+  - #### 最低寫入：```[C|U|V] N``` 寫入速度 最低 每秒 N x 10M Bits
     - Class 10 = 寫入速度 最低 每秒 10M Bits
     - U1 = 寫入速度 最低 每秒 10M Bits = Class 10
     - U3 = 寫入速度 最低 每秒 30M Bits
@@ -298,9 +298,10 @@
     - V30 = 寫入速度 最低 每秒 30M Bits = UHS-I U3
     - V60 = 寫入速度 最低 每秒 60M Bits
     - V90 = 寫入速度 最低 每秒 90M Bits
-  - A1 = 4K隨機寫入 最低 500 IOPS、4K連續寫入 最低 每秒 10M Bits
-  - A2 = 4K隨機寫入 最低 2000 IOPS、4K連續寫入 最低 每秒 10M Bits
-  - [匯流排介面](https://www.sdcard.org/cht/developers/overview/bus_speed/index.html)
+  - #### 隨機寫入
+    - A1 = 4K隨機寫入 最低 500 IOPS、4K連續寫入 最低 每秒 10M Bits
+    - A2 = 4K隨機寫入 最低 2000 IOPS、4K連續寫入 最低 每秒 10M Bits
+  - #### [匯流排介面](https://www.sdcard.org/cht/developers/overview/bus_speed/index.html)
     - SD Express > UHS-III > UHS-II > UHS-I > 高速度 > 一般速度
     - UHS (Ultra High Speed) 等級
       - I = UHS-I = 匯流排頻寬 最高 每秒 104M Bits

@@ -284,8 +284,8 @@
     - 64GB, SDXC UHS1 Class10 R85
       - 199 (2020.11.08, 日本橋, 促銷特價)
   - KLEVV CRAS
-    - <b style="background: yellow;">128GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s</b>
-      - 399 (2020.11.08, 日本橋)
+    - <span style="background-color: yellow;"><b>128GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s</b></span>
+      - **399 (2020.11.08, 日本橋)**
     - 256GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s 
       - 888 (2020.11.08, 日本橋)
   

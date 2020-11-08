@@ -228,7 +228,7 @@
   - [【TCELL 冠元】MicroSDXC UHS-I A1 U3 64GB 100/60MB 高速記憶卡](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5638012&str_category_code=1905900013)
     - 讀 100MB/s, 寫 60MB/s, 終身保固, NTD299 (2019.06.06)
   - [【Team 十銓】64GB 90MB/s microSDXC TF UHS-I U3 C10 記憶卡(彩卡版)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5944521&str_category_code=1905900013)
-    - 讀 90MB/s, 寫 45MB/s, 終身保固, NTD329 (2019.06.06)
+    - 讀 90MB/s, 寫 45MB/s, 終身保固, NTD329 (2019.06.06), NTD269 (2020.11.08)
   - [【Transcend 創見】64GB 300S microSDXC UHS-I U3 V30 A1 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6699647&str_category_code=1905900013)
     - 讀 95MB/s, 寫 45MB/s, 保固五年, NTD299 (2019.06.06)
   - AbonMax
@@ -289,18 +289,20 @@
       - 888 (2020.11.08, 日本橋)
   
 - 參考資料
-  - Class 10 = 寫入速度 最低 每秒 10M Bits
-  - U1 = Class 10
-  - U3 = 寫入速度 最低 每秒 30M Bits
-  - V10 = Class 10 = UHS-I U1
-  - V30 = UHS-I U3
-  - V60 = 寫入速度 最低 每秒 60M Bits
-  - V90 = 寫入速度 最低 每秒 90M Bits
+  - ```[C|U|V] N``` 寫入速度 最低 每秒 N x 10M Bits
+    - Class 10 = 寫入速度 最低 每秒 10M Bits
+    - U1 = 寫入速度 最低 每秒 10M Bits = Class 10
+    - U3 = 寫入速度 最低 每秒 30M Bits
+    - V10 = 寫入速度 最低 每秒 10M Bits = UHS-I U1 = Class 10
+    - V30 = 寫入速度 最低 每秒 30M Bits = UHS-I U3
+    - V60 = 寫入速度 最低 每秒 60M Bits
+    - V90 = 寫入速度 最低 每秒 90M Bits
   - A1 = 4K隨機寫入 最低 500 IOPS、4K連續寫入 最低 每秒 10M Bits
   - A2 = 4K隨機寫入 最低 2000 IOPS、4K連續寫入 最低 每秒 10M Bits
-  - I = UHS-I = 匯流排頻寬 最高 每秒 104M Bits
-  - II = UHS-II = 匯流排頻寬 最高 每秒 312M Bits
-  - III = UHS-III = 匯流排頻寬 最高 每秒 624M Bits
+  - UHS (Ultra High Speed) 等級
+    - I = UHS-I = 匯流排頻寬 最高 每秒 104M Bits
+    - II = UHS-II = 匯流排頻寬 最高 每秒 312M Bits
+    - III = UHS-III = 匯流排頻寬 最高 每秒 624M Bits
 
 <br><hr><br>
 

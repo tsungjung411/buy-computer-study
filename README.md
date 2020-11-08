@@ -233,7 +233,7 @@
     - 讀 95MB/s, 寫 45MB/s, 保固五年, NTD299 (2019.06.06)
   - AbonMax
     - 128GB
-      - 399 (2020.11.08, 日本橋)
+      - 399 (2020.11.08, 日本橋, 促銷特價)
     - 32GB
       - 138 (2020.11.08, 日本橋)
   - ADATA 威剛, TF UHS-1
@@ -282,6 +282,11 @@
   - Apacer
     - 64GB, SDXC UHS1 Class10 R85
       - 199 (2020.11.08, 日本橋, 促銷特價)
+  - KLEVV CRAS
+    - 128GB, TF SDXC I Class A2 U3 V30, Read 100MB/s 
+      - 399 (2020.11.08, 日本橋)
+    - 256GB, TF SDXC I Class A2 U3 V30, Read 100MB/s 
+      - 888 (2020.11.08, 日本橋)
   
 - 參考資料
   - Class 10 = 寫入速度 最低 每秒 10M Bits

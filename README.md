@@ -284,11 +284,18 @@
     - 64GB, SDXC UHS1 Class10 R85
       - 199 (2020.11.08, 日本橋, 促銷特價)
   - KLEVV CRAS
+    - 特色
+      - 韓國大廠Hynix晶片
+      - 流暢的4K及UHD影片拍攝
+      - 優化行動裝置體驗的A2規格
     - <span style="background-color: yellow;"><b>128GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s</b></span>
       - **399 (2020.11.08, 日本橋)**
+      - [[momo$549] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 128GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6926932)
     - 256GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s 
       - 888 (2020.11.08, 日本橋)
-  
+      - [[momo$699] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 256GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7001221)
+    - 512GB
+      - [[momo$2438] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 512GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8245027)
 - #### 參考資料
   - #### 最低寫入：```[C|U|V] N``` 寫入速度 最低 每秒 N x 10M Bits
     - Class 10 = 寫入速度 最低 每秒 10M Bits

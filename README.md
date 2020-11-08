@@ -231,7 +231,21 @@
     - 讀 90MB/s, 寫 45MB/s, 終身保固, NTD329 (2019.06.06)
   - [【Transcend 創見】64GB 300S microSDXC UHS-I U3 V30 A1 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6699647&str_category_code=1905900013)
     - 讀 95MB/s, 寫 45MB/s, 保固五年, NTD299 (2019.06.06)
-    
+  - AbonMax
+    - 128GB
+      - 399 (2020.11.08, 日本橋)
+    - 32GB
+      - 138 (2020.11.08, 日本橋)
+  - ADATA 威剛
+    - 32GB, V10
+      - 179 (2020.11.08, 日本橋)
+    - 64GB, V10
+      - 299 (2020.11.08, 日本橋)
+    - 128GB, V10
+      - 499 (2020.11.08, 日本橋)
+    - 256GB, V10
+      - 990 (2020.11.08, 日本橋)
+  
 - 參考資料
   - Class 10 = 寫入速度 最低 每秒 10M Bits
   - U1 = Class 10

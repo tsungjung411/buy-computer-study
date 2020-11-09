@@ -250,6 +250,7 @@
       - 269 (2020.11.08, 日本橋)
     - 128GB
       - 599 (2020.11.08, 日本橋)
+      - 495 (2020.11.09, [【SAMSUNG】三星 EVO PLUS microSDXC 128GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4905407))
     - 256GB
       - 1199 (2020.11.08, 日本橋)
     - 512GB

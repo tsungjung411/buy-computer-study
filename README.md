@@ -295,7 +295,7 @@
       - [[momo$549] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 128GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6926932)
     - 256GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s 
       - 888 (2020.11.08, 日本橋)
-      - [[momo$699] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 256GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7001221)
+      - [[momo$699] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 256GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7001221)<br>![](https://i.imgur.com/edHVUfc.png)
     - 512GB
       - [[momo$2438] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 512GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8245027)
 - #### 參考資料

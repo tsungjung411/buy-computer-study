@@ -253,6 +253,7 @@
       - 495 (2020.11.09, [【SAMSUNG】三星 EVO PLUS microSDXC 128GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4905407))
     - 256GB
       - 1199 (2020.11.08, 日本橋)
+      - 788 (贈10%+5%momo幣) (2020.11.12 [[momo] 【SAMSUNG 三星】EVO Plus microSDXC UHS-I U3 Class10 256GB記憶卡 公司貨(MB-MC256HA)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7735482))
     - 512GB
       - 2399 (2020.11.08, 日本橋)
   - 創建, TF R95M UHS1

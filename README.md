@@ -298,6 +298,9 @@
       - [[momo$699] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 256GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7001221)<br>![](https://i.imgur.com/edHVUfc.png)
     - 512GB
       - [[momo$2438] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 512GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8245027)
+  - SanDisk 晟碟
+    - 128GB
+      -469 (2020.11.12 [[momo]【SanDisk 晟碟】Extreme microSDXC UHS-I V30 A2 128GB 記憶卡 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5981155))
 - #### 參考資料
   - #### 最低寫入：```[C|U|V] N``` 寫入速度 最低 每秒 N x 10M Bits
     - Class 10 = 寫入速度 最低 每秒 10M Bits

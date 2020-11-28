@@ -248,6 +248,9 @@
       - 499 (2020.11.08, 日本橋)
     - 256GB, V10
       - 990 (2020.11.08, 日本橋)
+  - Gigastone 立達國際
+    - 128G A1V10
+      - 399 ([【Gigastone 立達國際】128GB micro SDXC UHS-Ⅰ U1 記憶卡(128G A1V10 高速記憶卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6849822))
   - Samsung 三星, TF EVO PLUS
     - 64GB
       - 269 (2020.11.08, 日本橋)

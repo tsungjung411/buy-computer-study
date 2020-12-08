@@ -307,6 +307,8 @@
   - SanDisk 晟碟
     - 128GB
       - 469 (2020.11.12 [[momo]【SanDisk 晟碟】Extreme microSDXC UHS-I V30 A2 128GB 記憶卡 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5981155))
+  - 達墨 TOPMORE
+    - 256GB, U3, V3, A2 [達墨 TOPMORE 256GB MicroSDXC UHS-1 U3 A2 V30 Class10 記憶卡](https://24h.pchome.com.tw/prod/DGAGB4-A900AP2KS?fq=/S/DGAGB4)
 - #### 參考資料
   - #### 最低寫入：```[C|U|V] N``` 寫入速度 最低 每秒 N x 10M Bits
     - Class 10 = 寫入速度 最低 每秒 10M Bits

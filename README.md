@@ -332,7 +332,9 @@
         - ![](https://www.sdcard.org/cht/developers/overview/bus_speed/img/uhs_iii_marks.png)
       - SD Express
         - ![](https://www.sdcard.org/cht/developers/overview/bus_speed/img/uhs_express_marks.png)
-
+   - [速度等級](https://www.sdcard.org/cht/consumers/choices/speed_class/index.html)
+     <br>![](https://i.imgur.com/q8hl5QY.png)
+     <br>![](https://i.imgur.com/LnKzOrQ.png)
 <br><hr><br>
 
 ## 關鍵字

@@ -288,6 +288,7 @@
     - 64GB, Class10 I U1 A1, 讀 100MB/s 
       - 299 (2020.11.08, 日本橋)
   - SanDisk 晟碟
+    - [讓人失望的 SanDisk Extreme microSDXC A2 記憶卡](https://kheresy.wordpress.com/2018/11/28/讓人失望的-sandisk-extreme-microsdxc-a2-記憶卡/)
     - 128GB
       - 469 (2020.11.12 [[momo]【SanDisk 晟碟】Extreme microSDXC UHS-I V30 A2 128GB 記憶卡 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5981155))
   - Samsung 三星, TF EVO PLUS

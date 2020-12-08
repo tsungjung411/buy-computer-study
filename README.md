@@ -248,25 +248,30 @@
       - 499 (2020.11.08, 日本橋)
     - 256GB, V10
       - 990 (2020.11.08, 日本橋)
+  - Apacer
+    - 64GB, SDXC UHS1 Class10 R85
+      - 199 (2020.11.08, 日本橋, 促銷特價)
   - Gigastone 立達國際
     - 128G A1V10
       - 399 ([【Gigastone 立達國際】128GB micro SDXC UHS-Ⅰ U1 記憶卡(128G A1V10 高速記憶卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6849822))
-  - Samsung 三星, TF EVO PLUS
-    - 64GB
-      - 269 (2020.11.08, 日本橋)
-    - 128GB
-      - 599 (2020.11.08, 日本橋)
-      - 495 (2020.11.09, [【SAMSUNG】三星 EVO PLUS microSDXC 128GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4905407))
-    - 256GB
-      - 1199 (2020.11.08, 日本橋)
-      - 788 (贈10%+5%momo幣) (2020.11.12 [[momo] 【SAMSUNG 三星】EVO Plus microSDXC UHS-I U3 Class10 256GB記憶卡 公司貨(MB-MC256HA)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7735482))
+    - 256G, 五年保固
+      - 2020/12/08-momo$699 [【Gigastone 立達國際】256GB micro SDXC UHS-Ⅰ U3 記憶卡(256G A1V30 高速記憶卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6849813)
+  - [KLEVV CRAS](https://www.momoshop.com.tw/category/DgrpCategory.jsp?d_code=4201000174)
+    - 特色
+      - 韓國大廠Hynix晶片
+      - 流暢的4K及UHD影片拍攝
+      - 優化行動裝置體驗的A2規格
+    - <span style="background-color: yellow;"><b>128GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s</b></span>
+      - **399 (2020.11.08, 日本橋)**
+      - [[momo$549] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 128GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6926932)
+    - 256GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s 
+      - 888 (2020.11.08, 日本橋)
+      - [[momo$699] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 256GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7001221)<br>![](https://i.imgur.com/edHVUfc.png)
     - 512GB
-      - 2399 (2020.11.08, 日本橋)
-  - 創建, TF R95M UHS1
-    - 32GB
-      - 199 (2020.11.08, 日本橋)
-    - 128GB
-      - 599 (2020.11.08, 日本橋)
+      - [[momo$2438] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 512GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8245027)
+  - Kodak TF
+    - 128GB, SDXC UHS1 U1 Class10, 讀 80MB/s
+      - 399 (2020.11.08, 日本橋, 促銷特價)
   - Lexar
     - 32GB, 633X **SDHC** UHS1
       - 199 (2020.11.08, 日本橋)
@@ -282,33 +287,32 @@
       - 158 (2020.11.08, 日本橋)
     - 64GB, Class10 I U1 A1, 讀 100MB/s 
       - 299 (2020.11.08, 日本橋)
-  - Sony
-    - 16GB, TF R95n W60 SR-16UX2入
-      - 158 (2020.11.08, 日本橋)
-  - Kodak TF
-    - 128GB, SDXC UHS1 U1 Class10, 讀 80MB/s
-      - 399 (2020.11.08, 日本橋, 促銷特價)
-  - Apacer
-    - 64GB, SDXC UHS1 Class10 R85
-      - 199 (2020.11.08, 日本橋, 促銷特價)
-  - [KLEVV CRAS](https://www.momoshop.com.tw/category/DgrpCategory.jsp?d_code=4201000174)
-    - 特色
-      - 韓國大廠Hynix晶片
-      - 流暢的4K及UHD影片拍攝
-      - 優化行動裝置體驗的A2規格
-    - <span style="background-color: yellow;"><b>128GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s</b></span>
-      - **399 (2020.11.08, 日本橋)**
-      - [[momo$549] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 128GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6926932)
-    - 256GB, TF SDXC I Class A2 U3 V30, 讀 100MB/s 
-      - 888 (2020.11.08, 日本橋)
-      - [[momo$699] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 256GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7001221)<br>![](https://i.imgur.com/edHVUfc.png)
-    - 512GB
-      - [[momo$2438] 【KLEVV 科賦】CRAS microSDXC UHS-I U3 V30 A2 512GB 記憶卡(附轉卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8245027)
   - SanDisk 晟碟
     - 128GB
       - 469 (2020.11.12 [[momo]【SanDisk 晟碟】Extreme microSDXC UHS-I V30 A2 128GB 記憶卡 公司貨](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5981155))
+  - Samsung 三星, TF EVO PLUS
+    - 64GB
+      - 269 (2020.11.08, 日本橋)
+    - 128GB
+      - 599 (2020.11.08, 日本橋)
+      - 495 (2020.11.09, [【SAMSUNG】三星 EVO PLUS microSDXC 128GB U3 記憶卡(平行輸入)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=4905407))
+    - 256GB
+      - 1199 (2020.11.08, 日本橋)
+      - 788 (贈10%+5%momo幣) (2020.11.12 [[momo] 【SAMSUNG 三星】EVO Plus microSDXC UHS-I U3 Class10 256GB記憶卡 公司貨(MB-MC256HA)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7735482))
+    - 512GB
+      - 2399 (2020.11.08, 日本橋)
+  - Sony
+    - 16GB, TF R95n W60 SR-16UX2入
+      - 158 (2020.11.08, 日本橋)
+  - 創建, TF R95M UHS1
+    - 32GB
+      - 199 (2020.11.08, 日本橋)
+    - 128GB
+      - 599 (2020.11.08, 日本橋)
   - 達墨 TOPMORE
-    - 256GB, U3, V3, A2 [達墨 TOPMORE 256GB MicroSDXC UHS-1 U3 A2 V30 Class10 記憶卡](https://24h.pchome.com.tw/prod/DGAGB4-A900AP2KS?fq=/S/DGAGB4)
+    - 256GB, U3, V3, A2, 終身保固
+      - 2020/12/08-Pchome$699: [達墨 TOPMORE 256GB MicroSDXC UHS-1 U3 A2 V30 Class10 記憶卡](https://24h.pchome.com.tw/prod/DGAGB4-A900AP2KS?fq=/S/DGAGB4)
+      - 2020/12/08-momo$699: [【TOPMORE 達墨】MicroSDXC UHS-I U3 A2 V30 256GB(Class 10記憶卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7780246)
 - #### 參考資料
   - #### 最低寫入：```[C|U|V] N``` 寫入速度 最低 每秒 N x 10M Bits
     - Class 10 = 寫入速度 最低 每秒 10M Bits

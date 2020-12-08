@@ -256,7 +256,7 @@
       - 399 ([【Gigastone 立達國際】128GB micro SDXC UHS-Ⅰ U1 記憶卡(128G A1V10 高速記憶卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6849822))
     - 256G, 五年保固
       - 2020/12/08-momo$699 [【Gigastone 立達國際】256GB micro SDXC UHS-Ⅰ U3 記憶卡(256G A1V30 高速記憶卡)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6849813)
-  - [KLEVV CRAS](https://www.momoshop.com.tw/category/DgrpCategory.jsp?d_code=4201000174)
+  - [KLEVV CRAS](https://www.momoshop.com.tw/category/DgrpCategory.jsp?d_code=4201000174)<br>![](https://i.imgur.com/fTsnW8O.png)
     - 特色
       - 韓國大廠Hynix晶片
       - 流暢的4K及UHD影片拍攝

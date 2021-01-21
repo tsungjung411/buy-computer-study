@@ -340,6 +340,8 @@
    - [速度等級](https://www.sdcard.org/cht/consumers/choices/speed_class/index.html)
      <br>![](https://i.imgur.com/q8hl5QY.png)
      <br>![](https://i.imgur.com/LnKzOrQ.png)
+   - [隨機存取](https://swallno.pixnet.net/blog/post/225006501)
+     <br>![](https://pic.pimg.tw/swallno/1600502588-616216149-g_n.png)
 <br><hr><br>
 
 ## 關鍵字

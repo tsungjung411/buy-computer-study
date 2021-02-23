@@ -344,5 +344,9 @@
      <br>![](https://pic.pimg.tw/swallno/1600502588-616216149-g_n.png)
 <br><hr><br>
 
+#### 隨身碟
+- [[momo$980] 【SanDisk 晟碟】256GB 130MB/s Ultra Fit CZ430 USB3.1 隨身碟(平輸)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6747667)
+  ![](https://i.imgur.com/80h87NU.png)
+
 ## 關鍵字
 - 選購 / 挑選 / 購買 / 組裝

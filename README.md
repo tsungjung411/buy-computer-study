@@ -350,6 +350,7 @@
   - 2021/02/24 - momo$980
   - 2021/02/28 - momo$862
   - 2021/02/28 - [shopee$797](https://shopee.tw/x-i.31972247.904607902) + 運費50
+  - 2021/07/15 - [rakuten$803](https://www.rakuten.com.tw/shop/ipanic/product/CCDBED1D0/) + 免運
 
 ## 關鍵字
 - 選購 / 挑選 / 購買 / 組裝

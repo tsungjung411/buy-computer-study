@@ -300,6 +300,7 @@
     - 256GB
       - 1199 (2020.11.08, 日本橋)
       - 788 (贈10%+5%momo幣) (2020.11.12 [[momo] 【SAMSUNG 三星】EVO Plus microSDXC UHS-I U3 Class10 256GB記憶卡 公司貨(MB-MC256HA)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7735482))
+      - 699 [【SAMSUNG 三星】SAMSUNG 三星EVO Plus microSDXC UHS-I U3 A2 V30 256GB記憶卡 公司貨(MB-MC256KA)](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9358512), 2022/06/22
     - 512GB
       - 2399 (2020.11.08, 日本橋)
   - Sony
